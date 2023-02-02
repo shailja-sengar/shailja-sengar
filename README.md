@@ -1,6 +1,6 @@
 <h1 align "centre">Hello World 👋, I'm Shailja Sengar</h1>
 💫 About Me:
-<br>✧ I'm pursuing Integrated M tech In Artificial Intelligence.<br>✧ I'm currently working on web development.<br>✧ Ask me about DSA problems, ML algorithms.<br> 
+<br>✧ I'm pursuing Integrated M tech In Artificial Intelligence.<br>✧ I'm currently working on web development.<br>✧ Ask me about DSA problems, ML algorithms.<br>✧ I can be reached at : shailjasengar28@gmail.com<br>
 
 
 ## 🌐 Socials:
